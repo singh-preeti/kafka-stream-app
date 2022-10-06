@@ -1,0 +1,5 @@
+org\stream\app\JsonDeserializer.class
+org\stream\app\DummyDataGen.class
+org\stream\app\Order.class
+org\stream\app\OrderStreamPipeline.class
+org\stream\app\JsonSerializer.class
